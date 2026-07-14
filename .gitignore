@@ -1,0 +1,15 @@
+# Pandoc output
+*.docx
+*.pdf
+
+# Obsidian
+.obsidian/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
