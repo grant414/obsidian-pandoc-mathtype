@@ -13,3 +13,4 @@ Thumbs.db
 *.swp
 *.swo
 *~
+keep-tex-math-clean.lua
